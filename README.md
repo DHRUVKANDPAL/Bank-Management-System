@@ -1,6 +1,6 @@
-Key Operations
+Key Operations : 
 With our system, users can perform the following essential operations:
-Creating New Accounts: Users can open new accounts with a unique account number
+1) Creating New Accounts: Users can open new accounts with a unique account number
 associated with the bank of their choice.
 Depositing Funds: The system allows users to deposit money into their accounts conveniently.
 Withdrawing Funds: Users can withdraw money from their accounts, ensuring financial
